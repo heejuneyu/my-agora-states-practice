@@ -28,4 +28,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-72-heejuneyu-s3 \
             --delete
-        working-directory: ./fe-sprint-my-agora-states-server-reference
+        working-directory: ./my-agora-states-practice
